@@ -14,3 +14,5 @@ and thousands of images found online.
 Google's Teachable Machine website: 
 https://experiments.withgoogle.com/teachable-machine# 50p-coin-classifier
 
+<img src="/screenshots/screenshot.png">
+
