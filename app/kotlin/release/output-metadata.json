@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "org.tensorflow.lite.examples.classification.playservices.kotlin",
+  "variantName": "kotlinRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "0.0.1-kotlin",
+      "outputFile": "app-kotlin-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
