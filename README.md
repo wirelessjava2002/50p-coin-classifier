@@ -11,8 +11,9 @@ coins, and the Beatrix Potter 50 pence coins.
 The model was created using hundreds of photos taken from real 50 pence pieces, 
 and thousands of images found online. 
 
-Model created using Google's Teachable Machine website: 
-https://experiments.withgoogle.com/teachable-machine# 50p-coin-classifier
+Model created using Google's Teachable Machine: 
+https://experiments.withgoogle.com/teachable-machine
 
+# 50p-coin-classifier
 <img src="/screenshots/screenshot.png">
 
